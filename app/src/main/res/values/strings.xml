@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HandlerThread</string>
+    <string name="remove_messages">Remove messages</string>
+    <string name="do_work">Do work</string>
+</resources>
